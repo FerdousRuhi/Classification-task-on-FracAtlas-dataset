@@ -1,0 +1,2 @@
+This is a research work for bachelor final thesis. The name of this research is "Classification of bone fracture from 2D x-ray images usingtransfer learning and attention module on FracAtlas dataset".
+This research work was done by me and my partner Fokrun Nahar who is also a bachelor's student and was supervised by Mr. Adnan Ferdous Ashrafi sir who is a senior lecturer of Stamford University Bangladesh.
